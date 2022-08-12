@@ -35,4 +35,4 @@ CUDA_VISIBLE_DEVICES=${gpu_id} python main2.py \
   --feature_end=True \
   --feature_pv=false \
   --metric_type=f1 \
-  --init_checkpoint=model/aida_model_ckp_top10/best_exporter_checkpoint/1659705072274/model.ckpt-4000
+  --init_checkpoint=model/aida_model_ckp_top30/best_exporter_checkpoint/1659705072274/model.ckpt-4000
